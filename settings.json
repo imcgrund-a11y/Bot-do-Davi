@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -24,21 +24,22 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 30,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I like to play Minecraft!",
+        "Hello everyone!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 10000,
     "max-reconnect-delay": 120000
   },
   "movement": {
