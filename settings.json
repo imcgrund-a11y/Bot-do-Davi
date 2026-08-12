@@ -8,7 +8,7 @@
   "server": {
     "ip": "AcuitsAcademy.aternos.me",
     "port": 16421,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 30,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Eu sou gay !",
         "I like to play Minecraft!",
         "Hello everyone!"
       ]
